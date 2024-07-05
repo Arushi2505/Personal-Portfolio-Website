@@ -13,7 +13,9 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 
 ## Demo
 
-You can view a live demo of the website at (http://your-live-demo-link.com).
+You can view a live demo of the website at [![Watch the video](My Portfolio - Google Chrome - 5 July 2024 - Watch Video
+
+)]([https://www.loom.com/embed/YOUR_VIDEO_ID](https://www.loom.com/share/91e416653ab14d38a7160681d4b3f81c?sid=86042a93-88c3-47ec-aba4-2c38d06528de))
 
 ## Installation
 
